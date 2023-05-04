@@ -24,6 +24,7 @@ One of the following permissions is required to call this API. To learn more, in
 
 > [!IMPORTANT]
 > The operation cannot be performed on a user's own account. Only an administrator with the appropriate permissions can perform this operation.
+> AAD applications are **not** supported.
 
 |Permission type      | Permissions (from least to most privileged)              |
 |:---------------------------------------|:-------------------------|
